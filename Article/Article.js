@@ -121,11 +121,12 @@ function createComponent(object){
 
 //TITLE
   const artTitle = document.createElement('h2');
+  artTitle.textContent= object.title;
   article.append(artTitle);
 
 //DATE
   const artDate = document.createElement('p');
-  date.classList.add('date');
+  artDate.classList.add('date');
   artDate.textContent= object.date;
   article.append(artDate);
 //FIRSTP
@@ -146,7 +147,7 @@ function createComponent(object){
 //BUTTON
   const btnExpand = document.createElement('p');
   btnExpand.classList.add('expandButton');
-  btnExpand.textContent= object.btnExpand;
+  btnExpand.textContent= 'expand';
   btnExpand.addEventListener("click",() => {
   article.classList.toggle("article-open");
 })
@@ -155,3 +156,6 @@ article.append(btnExpand);
 return article;
 }
 
+const holdmymap = data.map(article => createComponent(article));
+const newArticle = document.querySelector('div.articles');
+holdmymap.forEach(article => newArticle.append(article))
