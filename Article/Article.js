@@ -85,7 +85,19 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
-  }
+  },
+  {
+    title: 'Edward Norton',
+    date: 'March 11th 2020',
+    firstParagraph: `So, Edward Norton. Isn't he great? He is handsome and talented and everything. I love him with all my heart. I wish I could have been his Marla Singer but that is okay. I will just have to live with that pain. I love soap too. And we has a soap maker in fight club. okay cool. Done. Edward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward Norton`,
+
+    secondParagraph: `Edward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward Norton`,
+
+    thirdParagraph: `Edward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward NortonEdward Norton`
+  },
+
+
+  
 ];
 
 /* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
@@ -112,3 +124,50 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+
+//STEP ONE:
+function createComponent(object){
+  //ARTICLE
+  const article = document.createElement('div');
+  article.classList.add('article');
+
+//TITLE
+  const artTitle = document.createElement('h2');
+  artTitle.textContent= object.title;
+  article.append(artTitle);
+
+//DATE
+  const artDate = document.createElement('p');
+  artDate.classList.add('date');
+  artDate.textContent= object.date;
+  article.append(artDate);
+//FIRSTP
+  const firstP = document.createElement('p');
+  firstP.textContent= object.firstParagraph;
+  article.append(firstP);
+
+//SECONDP
+  const secP = document.createElement('p');
+  secP.textContent= object.secondParagraph;
+  article.append(secP);
+
+//THIRDP
+  const thiP = document.createElement('p');
+  thiP.textContent= object.thirdParagraph;
+  article.append(thiP);
+
+//BUTTON
+  const btnExpand = document.createElement('p');
+  btnExpand.classList.add('expandButton');
+  btnExpand.textContent= 'expand';
+  btnExpand.addEventListener("click",() => {
+  article.classList.toggle("article-open");
+})
+article.append(btnExpand);
+
+return article;
+}
+
+const holdmymap = data.map(article => createComponent(article));
+const newArticle = document.querySelector('div.articles');
+holdmymap.forEach(article => newArticle.append(article))
